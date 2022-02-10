@@ -1,8 +1,7 @@
 # Johnny_Data606
 UMBC Data606 Data Science Masters Captone
-# This is my first superficial update to test forkupstream
 
-Johnny_Data606 draft proposal
+# Johnny_Data606 draft proposal
 
 # What is your issue of interest (provide sufficient background information)?
 Stock price is entirely governed by 2 factors: What the owner wants to sell it for, and what the buyer is willing to pay for it.  Many factors influence their decisions.  Price prediction based on sentiment analysis of social media, google search terms, and new articles over time.  
