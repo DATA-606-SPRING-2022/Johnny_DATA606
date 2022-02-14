@@ -22,8 +22,8 @@ Model performance will be evaluated using independent models compared using thei
 ## What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practical applications, etc)?
 It is perhaps naive to assume that models created in this project will net a stable and reliable stock prediction methodology that does not require actual domain knowledge of the forces that drive stock prices.  However, the methodology of evaluating investor behaviors and influencers is useful in many domains. Focusing on news media and social media can provide access to expert and pseudo-expert advice which presumably could be used to predict stock price. Thus, the focus shifts to modeling the predictive utility of the author and the advice to predicted price. Machine learning models produced would reflect a predictive score of the specific author and a semantic score of the advice.   
 
-## Stock Price Governed by 2 factors:  
-# What the seller wants to sell it for
+# Stock Price Governed by 2 factors:  
+## What the seller wants to sell it for
 #What the buyer is willing to pay for it
 This project will be based on developing a baseline of social media and news article sources from which to extract semantics and sentiments expressed regarding stock valuation.  As the investor market behaves by buying and selling, that behavior is expressed as stock transactions.  These transactions are well known in terms of which stock is bought, what the volume of the sale was, and what the price was.   The stock in question has characteristics such as publications to the stock exchange detailing the company’s business, insider trading, dividends, etc.  
 # In the age of the internet:
