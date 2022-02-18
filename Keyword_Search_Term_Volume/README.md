@@ -1,0 +1,1 @@
+Keyword search term volume can be a useful metric to provide a view into level of interest over time as it relates to public interest in a stock.  This can potentially be a popularity index to help explain large stock price movements.
