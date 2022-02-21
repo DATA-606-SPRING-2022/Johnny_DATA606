@@ -5,12 +5,10 @@ This project is comprised of several data sources which are intended to be used 
 current status: 
 learning how to run github on my operating system directory on my laptop.  
 
-Successfuklly loaded directory updates from laptop bash terminal.  
-
-uploaded directory structures assocoated with several of my data sets.
+Setting up jupyter notebooks in git directory structure
 
 current level of data file access includes successful Google search, successful newspaper3k parsing.  
 
-Next steps include activating my twitter research account, developing a daily search strcuture to control 1 year of daily retrospective search criteria for google searches.  
+Next steps include activating my twitter research account, developing a daily search structure to control 1 year of daily retrospective search criteria for google searches.  
 
-develop parsing methodology to take resulting urls, associate target dates to the data points, develop newspaper3k parsing of each url, capture metadata of each url into data frame, store resulting data frames into directory structure.  
+Develop parsing methodology to take resulting urls, associate target dates to the data points, develop newspaper3k parsing of each url, capture metadata of each url into data frame, store resulting data frames into directory structure.  
