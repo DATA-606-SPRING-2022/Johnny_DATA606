@@ -20,4 +20,5 @@ ssh-add ~/.ssh/id_ed25519
 
 git status
 git add .
+git commit -m 'My message'
 git push git@github.com:yj07538/Johnny_Data606.git
