@@ -34,3 +34,11 @@ Since this is iterative I am working to first understand how the newspaper packa
 I'll try to move to migrate these efforts into this filesystem so that the work is visible and progress will be more apparent.
 
 This effort is a little ambitious in that the data is not a canned data set, but rather a compilation of datasets that I have to collect.  If I am unsuccessful at getting google data I will punt and work with twitter data.  I'm not beaten quite yet.  
+
+## Notes 20220228
+Running the google api script with a pause of 30 seconds.  Hopefully it will allow me to have a few more days of results.  The search criteria is AAPL.  There are a few other search terms I want to try to get stock articles.
+So far so good... I got a few more days so far.  i only got 5 days of queries done.  HTTPError: HTTP Error 429: Too Many Requests 
+
+will try 300 seconds next.  Not sure how much time to back off.  Sop far so good.  It ran another day.  I'll let this run and go to sleep.  Maybe it will work.  If not I'll try 600 seconds.  I've seen some scripts say they have exponential backoffs and retries.  I may have to explore those.  Tis is very distracting to my purpose of getting the actual data to work with. This part of data science sucks!
+
+I'm starting on a topic modeling effort.  Looking at gensim Latent Dirischlet Allocation LDA topic modeling.  The PYldavis script looks promising.  
