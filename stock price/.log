@@ -9145,3 +9145,23 @@
 2022-04-20 12:56:43,157 [26796] WARNING  py.warnings:109: [JupyterRequire] C:\Users\johnny\AppData\Local\Temp/ipykernel_26796/3486255686.py:11: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
   X_test = np.array(X_test)
 
+2022-04-23 10:01:53,509 [2248] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): query2.finance.yahoo.com:443
+2022-04-23 10:01:53,621 [2248] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://query2.finance.yahoo.com:443 "GET /v8/finance/chart/BTC-USD?period1=-631159200&period2=1650722513&interval=1d&includePrePost=False&events=div%2Csplits HTTP/1.1" 200 None
+2022-04-24 12:32:11,066 [22696] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-04-24 12:32:11,068 [22696] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-04-24 12:32:11,068 [22696] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-04-24 12:32:11,073 [22696] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-04-24 12:32:11,074 [22696] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-04-24 12:32:11,075 [22696] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-04-24 12:39:55,756 [25480] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-04-24 12:39:55,758 [25480] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-04-24 12:39:55,759 [25480] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-04-24 12:39:55,767 [25480] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-04-24 12:39:55,769 [25480] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-04-24 12:39:55,770 [25480] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-04-24 12:41:31,968 [26796] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-04-24 12:41:31,971 [26796] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-04-24 12:41:31,971 [26796] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-04-24 12:41:31,978 [26796] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-04-24 12:41:31,980 [26796] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-04-24 12:41:31,981 [26796] DEBUG    root:97: [JupyterRequire] Registering comm targets.
