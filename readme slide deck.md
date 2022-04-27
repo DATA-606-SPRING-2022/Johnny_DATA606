@@ -22,7 +22,7 @@ DATA 606
 
 As price prediction was performed and LSTM price prediction was evaluated.  It became clear that the price predictions were fully capable of predicting price using the price fluctuations alone without aid of sentiment or semantic enrichment.  However 5 day moving averages were just as reliable a predictor and is already a standard prediction methodology.  
 
-![price prediction](stock_price_prediction.PNG "title")
+![price prediction](images/stock_price_prediction.PNG "title")
 
 ---
 
@@ -33,57 +33,57 @@ The technology of word vectors provides capabilities that were useful in this ef
 This provides a basis for evaluation of topic domains and intent modeling.  
 
 # Project structure
-![](project_structure.PNG)
+![](images/project_structure.PNG)
 # Data Sources
-![](data_sources_slide.PNG)
+![](images/data_sources_slide.PNG)
 # project sections
-![](project_sections_slide.PNG)
+![](images/project_sections_slide.PNG)
 # price prediction semanic analysis
-![](price_prediction_semantic_analysis_slide.PNG)
+![](images/price_prediction_semantic_analysis_slide.PNG)
 # What is it?
-![](what_is_it_slide.PNG)
+![](images/what_is_it_slide.PNG)
 # ML Models
-![](ml_models_slide.PNG)
+![](images/ml_models_slide.PNG)
 
 # Explainability in predictions 
 ### what does semantic and sentiment analyis add to stock price prediction methodology?
 
-![](stock_price_prediction.PNG)
+![](images/stock_price_prediction.PNG)
 
 # So What?
-![](so_what_slide.PNG)
+![](images/so_what_slide.PNG)
 
 # Original intent
-![](original_intent_slide.PNG)
+![](images/original_intent_slide.PNG)
 # Word vector analysis
-![](word_vector_slide.PNG)
+![](images/word_vector_slide.PNG)
 # Cosine similarity clustering
-![](cosine_similarity_slide.PNG)
+![](images/cosine_similarity_slide.PNG)
 # Relevancy analysis using clustered feature vectors of news articles
-![](part_of_relevancy_analysis_slide.PNG)
+![](images/part_of_relevancy_analysis_slide.PNG)
 # Licensing statement cluster
-![](licensing_statements_slide.PNG)
+![](images/licensing_statements_slide.PNG)
 # dimensional relationships of company names and stock symbols
-![](dimensional_relationships_company_stock_names_symbols.PNG)
+![](images/dimensional_relationships_company_stock_names_symbols.PNG)
 # stock price cluster
-![](stock_price_cluster_slide.PNG)
+![](images/stock_price_cluster_slide.PNG)
 # Product information cluster
-![](product_information_slide.PNG)
+![](images/product_information_slide.PNG)
 # vocabulary plots dimension reduction
-![](vocabulary_plots_dimension_reduction.PNG)
+![](images/vocabulary_plots_dimension_reduction.PNG)
 # Full corpus plot
-![](full_corpus_slide.PNG)
+![](images/full_corpus_slide.PNG)
 # domain filtering benefit
-![](domain_filtering_slide.PNG)
+![](images/domain_filtering_slide.PNG)
 # research question exploring word vector dimensionality
-![](research_question_slide.PNG)
+![](images/research_question_slide.PNG)
 # research process steps
-![](research_process_slide.PNG)
+![](images/research_process_slide.PNG)
 # discovering the meaning of word vector dimensions
 
-![](discovering_meaning_in_the_dimensions.PNG)
+![](images/discovering_meaning_in_the_dimensions.PNG)
 # expected outcomes
-![](expected_outcomes.PNG)
+![](images/expected_outcomes.PNG)
 
 
 
