@@ -1,6 +1,6 @@
 # Johnny_Data project:
 
-![project structure png](project_structure.PNG "Title")
+![project structure png](images/project_structure.PNG "Title")
 ## What is your issue of interest (provide sufficient background information)?
 Stock price is entirely governed by 2 factors: What the owner wants to sell it for, and what the buyer is willing to pay for it.  Many factors influence their decisions. This project will focus on price prediction based on semantic analysis and sentiment analysis of social media, google search terms, and new articles over time.  
 
