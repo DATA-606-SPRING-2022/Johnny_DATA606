@@ -1,4 +1,5 @@
 # README_Project_structure
+![project structure png](project_structure.PNG "Title")
 
 This readme file explains the structure of the jupyter notebook structure, the progression of how the scripts are run, the files and directories created, and how the notebooks support the work of the project.
 
