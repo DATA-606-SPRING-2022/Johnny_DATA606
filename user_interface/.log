@@ -884,3 +884,16 @@ Also, if you're using any of the table format helpers (e.g. Group), replace
 2022-04-09 12:23:02,911 [2796] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://finance.yahoo.com:443 "GET /quote/SPY/history?period1=1388566800&period2=1483347599&interval=1d&frequency=1d&filter=history HTTP/1.1" 200 None
 2022-04-09 12:28:05,203 [2796] DEBUG    urllib3.connectionpool:971: [JupyterRequire] Starting new HTTPS connection (1): finance.yahoo.com:443
 2022-04-09 12:28:06,162 [2796] DEBUG    urllib3.connectionpool:452: [JupyterRequire] https://finance.yahoo.com:443 "GET /quote/AAPL/history?period1=1514797200&period2=1609577999&interval=1d&frequency=1d&filter=history HTTP/1.1" 200 None
+2022-05-01 07:20:58,541 [63924] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-05-01 07:20:58,552 [63924] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-05-01 07:20:58,553 [63924] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-05-01 07:20:58,561 [63924] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-05-01 07:20:58,563 [63924] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-05-01 07:20:58,564 [63924] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-05-01 07:20:59,436 [63924] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-05-01 07:20:59,436 [63924] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-05-01 07:20:59,436 [63924] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-05-01 07:20:59,439 [63924] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-05-01 07:20:59,440 [63924] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-05-01 07:20:59,440 [63924] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-05-01 07:21:04,353 [63924] INFO     numexpr.utils:157: [JupyterRequire] NumExpr defaulting to 8 threads.
