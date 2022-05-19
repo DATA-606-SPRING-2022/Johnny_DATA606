@@ -2366,3 +2366,10 @@
 2022-05-16 17:45:16,970 [20456] DEBUG    matplotlib.pyplot:290: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
 2022-05-16 17:45:16,971 [20456] DEBUG    matplotlib.pyplot:290: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
 2022-05-17 21:53:29,201 [20456] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: d:\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-05-17 21:53:39,422 [20456] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: d:\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-05-18 11:58:03,047 [20456] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-05-18 11:58:03,050 [20456] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-05-18 11:58:03,050 [20456] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-05-18 11:58:03,061 [20456] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-05-18 11:58:03,063 [20456] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-05-18 11:58:03,064 [20456] DEBUG    root:97: [JupyterRequire] Registering comm targets.
